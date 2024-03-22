@@ -1,0 +1,28 @@
+{
+  "name": "natuspariatur",
+  "version": "1.0.0",
+  "description": "deploy ethereum contracts and execute after deployment functions with ease",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RowlandFerry/natuspariatur.git"
+  },
+  "keywords": [
+    "impedit",
+    "deploy",
+    "contract",
+    "eos",
+    "blockchain",
+    "solidity",
+    "ut"
+  ],
+  "author": "DarrickBarton",
+  "license": "ISC",
+  "homepage": "https://github.com/RowlandFerry/natuspariatur.git",
+  "dependencies": {
+    "web3": "^1.2.11"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
